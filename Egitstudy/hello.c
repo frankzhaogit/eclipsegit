@@ -2,14 +2,14 @@
 #include <windows.h>
 int main() {
     printf("hello world!\n");
-    printf("hello everyone!\n");
+    printf("hello everyone!\n");//123
     system("pause");
     return 0;
 }
 /*
  * hello.c
  *
- *  Created on: 2018Äê8ÔÂ15ÈÕ
+ *  Created on: 2018Ã„Ãª8Ã”Ã‚15ÃˆÃ•
  *      Author: zhaogang
  */
 
